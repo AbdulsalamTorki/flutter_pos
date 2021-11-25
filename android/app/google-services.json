@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833286836328",
+    "project_id": "flutter-poc-app",
+    "storage_bucket": "flutter-poc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833286836328:android:85ccdaa8aba99700e4ebdd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833286836328-1suva7goil5sip7ffbn2idr4677vt8fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5iwiSJD2Cwo_uZ-djF_96D5nJZc-NaJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833286836328-1suva7goil5sip7ffbn2idr4677vt8fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
